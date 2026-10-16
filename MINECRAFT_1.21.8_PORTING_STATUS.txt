@@ -1,0 +1,8 @@
+Minecraft 1.21.8 target configuration
+====================================
+
+Build configuration and Fabric metadata have been updated to target Minecraft 1.21.8.
+
+IMPORTANT: This project has NOT been successfully compiled or launched against Minecraft 1.21.8 in this environment. Minecraft 1.21.2+ includes API changes that may require source-level fixes. Treat this as a 1.21.8 migration work-in-progress, not a verified release JAR.
+
+Build with Java 21 and Gradle after network access is available, then fix any compilation/runtime errors before using it.
